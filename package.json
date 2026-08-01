@@ -23,16 +23,16 @@
     "clang-format": "bin/clang-format.js"
   },
   "dependencies": {
-    "chalk": "^5.4.1",
-    "commander": "^14.0.0",
-    "ignore": "^7.0.5",
-    "p-limit": "^6.2.0"
+    "chalk": "^6.0.0",
+    "commander": "^15.0.0",
+    "ignore": "^7.0.6",
+    "p-limit": "^7.3.1"
   },
   "devDependencies": {
-    "@eslint/js": "9.28.0",
-    "eslint": "9.28.0",
-    "globals": "^16.2.0",
-    "prettier": "3.5.3"
+    "@eslint/js": "10.0.1",
+    "eslint": "10.8.0",
+    "globals": "^17.8.0",
+    "prettier": "3.9.6"
   },
   "scripts": {
     "fmt": "prettier --write \"**/*\"",
